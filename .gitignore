@@ -12,4 +12,4 @@ link_onchain_daily.csv
 onchain_metrics.html
 onchain.ipynb
 __pycache__
-
+.DS_Store
